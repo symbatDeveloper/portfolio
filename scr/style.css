@@ -1,11 +1,10 @@
 body {
     font-family: 'Poppins', sans-serif;
+     margin: 0;
 }
 
 section {
-   
-    background-color: white;
-    border: solid black 1px;
+   background-color: white;
    
 }
 .hero {
@@ -38,8 +37,8 @@ ul {
 ul.show {
 display: block;
 }
+
 li {
-    
     text-decoration: none;
 }
 h1{
